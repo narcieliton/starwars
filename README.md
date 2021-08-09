@@ -2,7 +2,7 @@
 
 <p>Para executar é necessário : <br>
   1º entrar na pasta raíz do projeto e execuar o comando "docker-compose up" <br>
-  2º fazer clean package no projeto.
+  2º fazer clean package no projeto. <br>
   3º rodar o projeto.
 </p>
   
