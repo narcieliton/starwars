@@ -36,4 +36,4 @@ Consume a API pública https://swapi.dev/ e retorna uma lista paginada de planet
 </p>
 
 #### Stack-utilizada
-Java 11, MongoDb, Docker-compose, Swagger, Springboot, SpringData, Gson.
+Java 11, MongoDb, Docker-compose, Swagger, Springboot, SpringData, Gson, Junit.
