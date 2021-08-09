@@ -5,6 +5,7 @@
   2º fazer clean package no projeto. <br>
   3º rodar o projeto em alguma IDE com springboot ou executar o classe StarwarsApplication.java
 </p>
+<p> Parar a execução do docker-compose é so dar um "docker-compose down"
   
 <p>Documentação swagger não está completo, mas é possível utiliza-lo no http://localhost:8080/swagger-ui/index.html#/ </p>
 <p>O campo "amountOfMovie" será com informação da quantidade de exibição o planeta teve em filmes através do consumo da API pública https://swapi.dev/ </p>
