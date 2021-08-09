@@ -3,7 +3,7 @@
 <p>Para executar é necessário : <br>
   1º entrar na pasta raíz do projeto e execuar o comando "docker-compose up" <br>
   2º fazer clean package no projeto. <br>
-  3º rodar o projeto.
+  3º rodar o projeto em alguma IDE com springboot ou executar o classe StarwarsApplication.java
 </p>
   
 <p>Documentação swagger não está completo, mas é possível utiliza-lo no http://localhost:8080/swagger-ui/index.html#/ </p>
